@@ -11,9 +11,9 @@ bibliography: bibliography.bib
 >
 > Het werkveld heeft behoefte aan professionals die de kansen op het gebied van digitalisering en technologische transformaties van morgen mede kunnen vormgeven. En die ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of ethische dilemma's, doorzien. Professionals -- ook binnen de HAN -- moeten daarom niet alleen vertrouwd zijn met wat er nu op digitaal en technologisch gebied voor handen is. Ze moeten ook nieuwsgierig zijn naar toekomstige ontwikkelingen en mogelijkheden zodat ze een bijdrage kunnen leveren aan het benutten van kansen.
 
-Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal zogenaamde dynamische vermogens.
+Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
 
-![Dynamisch vermogens voor digitale transformatie.](digitalcapabilities.jpg){alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"}
+![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"}
 
 1.  Digital sensing: het kunnen herkennen van relevante [exponentiele digital technologieën](https://youtu.be/Tb7Kv6P7m9Q).
 
@@ -21,9 +21,9 @@ Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk
 
 3.  Digital transforming: het kunnen herpositioneren en structuren van de eigen organisatie en haar netwerken.
 
-Voor de optimale ontplooiing van bovenstaande dynamische vermogens dienen een aantal faciliteiten te worden ingericht: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn : (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
+Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende elementen aanwezig te zijn: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn: (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
 
-HAN Bedrijfskundigen helpen organisaties bij het ontplooien van de dynamische vermogens die nodig zijn om de kansen en beloftes van digitalisering te realiseren.
+**HAN Bedrijfskundigen helpen organisaties bij het ontplooien van de dynamische capaciteiten die nodig zijn om de kansen en beloftes van digitalisering te realiseren.**
 
 ## Strategie
 

@@ -31,7 +31,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 >
 > Eind 2027 beschikken studenten en medewerkers over vaardigheden om de kansen op het gebied van digitalisering en technologische transformaties mede te kunnen vormgeven. Tegelijkertijd doorzien zij ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of op het gebied van ethische dilemma's.
 
-![Data maturity model [@noauthor_digital_nodate]](datamaturity.png)
+![Data maturity model [@bratton_how_2020]](datamaturity.png)
 
 ## Ontwerp
 

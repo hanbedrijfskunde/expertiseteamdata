@@ -35,9 +35,11 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 
 ## Ontwerp
 
-![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png)
+![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png)
 
 ## Uitvoering
+
+![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png)
 
 ## Bronnen
 

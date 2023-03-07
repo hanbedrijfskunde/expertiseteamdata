@@ -25,7 +25,7 @@ De HAN heeft in haar strategische koersbeeld expliciet de noodzaak benoemd voor 
 
 </p>
 ```
-Het volgende hoofdstuk begint met de missie en visie van de HAN met betrekking tot het thema. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
+Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
 ## Missie / Visie
 
@@ -50,7 +50,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
   <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Casus Uber</h5>
-    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, verbeterkansen identificeert (<strong>sensing</strong>), verbeteringen voor het servicemodel ontwikkeld (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
+    <p class="card-text">De reportage beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, verbeterkansen identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
   </div>
 </div>
 ```

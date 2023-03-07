@@ -10,14 +10,19 @@ format:
       - header.html
     include-after-body:
       scripts.html
-title-block-banner: true
+title-block-banner: "#e50055"
 editor: visual
 bibliography: bibliography.bib
 ---
 
 ## Doel
+```{=html}
+<p class="lead">
 
-<p class="lead">De HAN heeft in haar strategische koers de noodzaak benoemt voor meer volwassenheid op het gebied van digitalisering en technologie. Dit document beschrijft de betekenis van deze opdracht voor de voltijd-opleiding Bedrijfskunde (BK) en formuleert een aantal belangrijke beslispunten.</p>
+De HAN heeft in haar strategische koers de noodzaak benoemt voor meer volwassenheid op het gebied van digitalisering en technologie. Dit document beschrijft de betekenis van deze opdracht voor de voltijd-opleiding Bedrijfskunde (BK) en formuleert een aantal belangrijke beslispunten.
+
+</p>
+```
 
 Het volgende hoofdstuk begint met de missie en visie van de HAN met betrekking tot het thema. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
@@ -49,7 +54,6 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 </div>
 ```
 De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
-
 
 **HAN Bedrijfskundigen helpen organisaties bij het ontplooien van de dynamische capaciteiten die nodig zijn om de kansen en beloftes van digitalisering daadwerkelijk te realiseren en om te zetten in waarde.**
 

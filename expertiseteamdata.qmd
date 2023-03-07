@@ -72,18 +72,30 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 ::: callout-important
 **Beslisvragen strategie:**
 
-1.  Tot welk volwassenheidsniveau moeten we studenten opleiden?
-
-2.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers?
+1.  Welk volwassenheidsniveau moeten we qua digitalisering als HAN opleiding BK bereiken?
 :::
 
 ## Ontwerp
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
+::: callout-important
+**Beslisvragen ontwerp:**
+
+1.  Tot welk volwassenheidsniveau moeten we studenten opleiden?
+
+2.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers?
+:::
+
 ## Uitvoering
 
 ![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png){.m-5}
+
+::: callout-important
+**Beslisvragen uitvoering:**
+
+1.  Hoe moeten we in de driehoek het systeem van digital sensing, seizing en transformation inrichten?
+:::
 
 ## Bronnen
 

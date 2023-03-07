@@ -80,7 +80,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
-@van_laar_determinants_2019 identified the following 21st century digital skills:
+@van_laar_relation_2017 identified the following 21st century digital skills:
 
 1.  *Information digital skills:* skills to search, evaluate, and manage digital information
 

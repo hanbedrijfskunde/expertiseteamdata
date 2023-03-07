@@ -37,11 +37,11 @@ Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk
 
 ![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){.m-5 alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"} Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
 
-1.  Sensing: het kunnen herkennen van kansen en bedreigingen
+1.  *Sensing*: het kunnen herkennen van kansen en bedreigingen
 
-2.  Seizing: kunnen acteren op kansen
+2.  *Seizing*: kunnen acteren op kansen
 
-3.  Transforming: kansen kunnen omzetten naar waarde door aanpassing van het business model of door een bredere resource basis waaruit kan worden geput
+3.  *Transforming*: kansen kunnen omzetten naar waarde door aanpassing van het business model of door een bredere resource basis waaruit kan worden geput
 
 Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende elementen aanwezig te zijn: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn: (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
 

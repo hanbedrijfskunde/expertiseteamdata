@@ -80,19 +80,19 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
-@van_laar_relation_2017 identified the following 21st century digital skills:
+@van_laar_relation_2017 stelden de volgende set aan essentiële 21st digital skills op:
 
-1.  *Information digital skills:* skills to search, evaluate, and manage digital information
+1.  *Informatievaardigheden*: vaardigheden om digitale informatie te zoeken, evalueren en beheren
 
-2.  *Communication digital skills:* skills to transmit information online and to reflect upon the best way to present this information
+2.  *Communicatievaardigheden*: vaardigheden om informatie online over te brengen en te reflecteren over de beste manier om deze informatie te presenteren
 
-3.  *Collaboration digital skills:* the ability to work effectively and respectfully in teams to accomplish a common goal and to assume shared responsibility for completing tasks
+3.  *Samenwerken*: het vermogen om effectief en respectvol in teams te werken, een gemeenschappelijk doel te bereiken en gezamenlijk verantwoordelijkheid te nemen voor het voltooien van taken
 
-4.  *Critical-thinking digital skills:* the ability to make informed judgments about information and communication based on sufficient reflection and evidence
+4.  *Kritisch denken*: het vermogen om op basis van voldoende reflectie en bewijs tot een gefundeerde beoordeling te komen over de kwaliteit van informatie
 
-5.  *Creative digital skills:* skills to appropriately use online tools to create online content
+5.  *Creatieve vaardigheden*: vaardigheden om online tools op een passende manier te gebruiken en online inhoud te creëren
 
-6.  *Problem-solving digital skills:* skills to use ICTs to analyze a problem situation and deploy knowledge in finding a solution to the problem
+6.  *Probleemoplossing*: vaardigheden om ICT te gebruiken om een probleemsituatie te analyseren en kennis in te zetten om een oplossing voor het probleem te vinden
 
 ::: {.callout-important .my-5}
 **Beslisvragen ontwerp:**

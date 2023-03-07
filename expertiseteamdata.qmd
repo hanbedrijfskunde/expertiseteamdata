@@ -1,9 +1,29 @@
 ---
-title: "Expertiseteam Digital/Data"
-format: html
+title: "Expertiseteam  Digital/Data"
+author: Witek ten Hove
+date: last-modified
+format:
+  html:
+    toc: true
+    number-sections: true
+    include-in-header:
+      - header.html
+    include-after-body:
+      scripts.html
+title-block-banner: true
 editor: visual
 bibliography: bibliography.bib
 ---
+
+## Doel
+
+<p class="lead">
+
+De HAN heeft in haar strategische koers de noodzaak benoemt voor meer volwassenheid op het gebied van digitalisering en technologie. Dit document beschrijft de betekenis van deze opdracht voor de voltijd-opleiding Bedrijfskunde (BK) en formuleert een aantal belangrijke beslispunten.
+
+</p>
+
+Het volgende hoofdstuk begint met de missie en visie van de HAN met betrekking tot het thema. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
 ## Missie / Visie
 
@@ -13,17 +33,29 @@ bibliography: bibliography.bib
 
 Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
 
-![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"}
+![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){.m-5 alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"} Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
 
-1.  Digital sensing: het kunnen herkennen van relevante [exponentiele digital technologieën](https://youtu.be/Tb7Kv6P7m9Q).
+1.  Sensing: het kunnen herkennen van kansen en bedreigingen
 
-2.  Digital seizing: het kunnen experimenteren met en testen en afwegen van interessante digitale technologieën.
+2.  Seizing: kunnen acteren op kansen
 
-3.  Digital transforming: het kunnen herpositioneren en structuren van de eigen organisatie en haar netwerken.
+3.  Transforming: kansen kunnen omzetten naar waarde door aanpassing van het business model of door een bredere resource basis waaruit kan worden geput
 
 Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende elementen aanwezig te zijn: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn: (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
 
-**HAN Bedrijfskundigen helpen organisaties bij het ontplooien van de dynamische capaciteiten die nodig zijn om de kansen en beloftes van digitalisering te realiseren.**
+```{=html}
+<div class="card m-5" style="width: 560px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">Casus Uber</h5>
+    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, verbeterkansen identificeert (<strong>sensing</strong>), verbeteringen voor het servicemodel ontwikkeld (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
+  </div>
+</div>
+```
+De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht krijgt. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
+
+
+**HAN Bedrijfskundigen helpen organisaties bij het ontplooien van de dynamische capaciteiten die nodig zijn om de kansen en beloftes van digitalisering daadwerkelijk te realiseren en om te zetten in waarde.**
 
 ## Strategie
 
@@ -31,15 +63,15 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 >
 > Eind 2027 beschikken studenten en medewerkers over vaardigheden om de kansen op het gebied van digitalisering en technologische transformaties mede te kunnen vormgeven. Tegelijkertijd doorzien zij ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of op het gebied van ethische dilemma's.
 
-![Data maturity model [@noauthor_data-analytics-maturity-model-infosupport-nl_nodate]](datamaturity.png)
+![Data maturity model [@noauthor_data-analytics-maturity-model-infosupport-nl_nodate]](datamaturity.png){.m-5}
 
 ## Ontwerp
 
-![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png)
+![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
 ## Uitvoering
 
-![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png)
+![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png){.m-5}
 
 ## Bronnen
 

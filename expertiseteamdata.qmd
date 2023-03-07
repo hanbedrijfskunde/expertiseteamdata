@@ -50,7 +50,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
   <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Casus Uber</h5>
-    <p class="card-text">De reportage beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, verbeterkansen identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
+    <p class="card-text">De reportage beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
   </div>
 </div>
 ```

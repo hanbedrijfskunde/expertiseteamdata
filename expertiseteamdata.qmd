@@ -25,7 +25,7 @@ De HAN heeft in haar strategische koersbeeld expliciet de noodzaak benoemd voor 
 
 </p>
 ```
-Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
+Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. Tevens worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
 ## Missie / Visie
 
@@ -76,26 +76,18 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 1.  Welk volwassenheidsniveau moeten we qua digitalisering als HAN BK bereiken?
 :::
 
-## Ontwerp
+## Ontwerp en uitvoering
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
 ::: {.callout-important .my-5}
 **Beslisvragen ontwerp:**
 
-1.  Tot welk volwassenheidsniveau moeten we studenten opleiden qua digitalisering?
-
-2.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers als het gaat om digitalisering?
-:::
-
-## Uitvoering
-
-![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png){.m-5}
-
-::: {.callout-important .my-5}
-**Beslisvragen uitvoering:**
-
 1.  Hoe moeten we in de driehoek het systeem van digital sensing, seizing en transformation inrichten en uitvoeren?
+
+2.  Tot welk volwassenheidsniveau moeten we studenten opleiden qua digitalisering?
+
+3.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers als het gaat om digitalisering?
 :::
 
 ## Bronnen

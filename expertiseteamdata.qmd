@@ -17,11 +17,7 @@ bibliography: bibliography.bib
 
 ## Doel
 
-<p class="lead">
-
-De HAN heeft in haar strategische koers de noodzaak benoemt voor meer volwassenheid op het gebied van digitalisering en technologie. Dit document beschrijft de betekenis van deze opdracht voor de voltijd-opleiding Bedrijfskunde (BK) en formuleert een aantal belangrijke beslispunten.
-
-</p>
+<p class="lead">De HAN heeft in haar strategische koers de noodzaak benoemt voor meer volwassenheid op het gebied van digitalisering en technologie. Dit document beschrijft de betekenis van deze opdracht voor de voltijd-opleiding Bedrijfskunde (BK) en formuleert een aantal belangrijke beslispunten.</p>
 
 Het volgende hoofdstuk begint met de missie en visie van de HAN met betrekking tot het thema. Deze wordt concreter gemaakt aan de hand van een model voor digitale transformatie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. In hoofdstuk vijf worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 

@@ -55,7 +55,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 ```
 De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
 
-::: callout-important
+::: {.callout-important .m-5}
 **Beslisvragen visie:**
 
 1.  Welke betekenis heeft de HAN Bedrijfskundige in een door digitalisering en technologie gedreven veranderende wereld?
@@ -69,7 +69,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 ![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){.m-5}
 
-::: callout-important
+::: {.callout-important .m-5}
 **Beslisvragen strategie:**
 
 1.  Welk volwassenheidsniveau moeten we qua digitalisering als HAN opleiding BK bereiken?
@@ -79,7 +79,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 
-::: callout-important
+::: {.callout-important .m-5}
 **Beslisvragen ontwerp:**
 
 1.  Tot welk volwassenheidsniveau moeten we studenten opleiden?
@@ -91,7 +91,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 ![Vergelijking modellen voor Bedrijfskundig en Datagedreven handelen [@noauthor_crisp_nodate].](crisp.png){.m-5}
 
-::: callout-important
+::: {.callout-important .my-5}
 **Beslisvragen uitvoering:**
 
 1.  Hoe moeten we in de driehoek het systeem van digital sensing, seizing en transformation inrichten?

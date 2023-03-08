@@ -124,7 +124,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 ::: {.callout-important .my-5}
 **Beslisvragen ontwerp:**
 
-1.  Hoe moeten we in de driehoek het systeem van digital sensing, seizing en transformation inrichten en uitvoeren?
+1.  Hoe moeten we in de HAN BK driehoek het systeem van digital sensing, seizing en transformation inrichten en uitvoeren?
 
 2.  Tot welk volwassenheidsniveau moeten we studenten opleiden qua digitalisering?
 

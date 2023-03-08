@@ -2,6 +2,7 @@
 title: "BESLISDOCUMENT: De betekenis van digitalisering voor HAN Bedrijfskunde (VT)"
 subtitle: "i.o.v. BK Werkgroep Driehoek"
 author: Witek ten Hove
+lang: nl
 date: last-modified
 format:
   html:
@@ -40,7 +41,7 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Qhvh4xE8GUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Digitale Transformatie in Europa</h5>
-    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren (zie <a href="#fig-marketcap">Figure 1</a>). Wat kunnen wij als Europeanen doen om de achterstand weer in te halen en hoe ver zijn we daarmee?</p>
+    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren (zie <a href="#fig-marketcap">Figuur 1</a>). Wat kunnen wij als Europeanen doen om de achterstand weer in te halen en hoe ver zijn we daarmee?</p>
   </div>
 </div>
 ```
@@ -56,7 +57,19 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 >
 > Eind 2027 beschikken studenten en medewerkers over vaardigheden om de kansen op het gebied van digitalisering en technologische transformaties mede te kunnen vormgeven. Tegelijkertijd doorzien zij ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of op het gebied van ethische dilemma's.
 
-![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){.m-5}
+<figure class="figure">
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vScXVJpkXYD-GN8hvaquWFkdkW8EwdDfasLvoRFqJ4NrkI_J6xQvtAo1nmid1YKaMKK47zhk4nE9W0y/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+```{=html}
+</iframe>
+<figcaption class="figure-caption">
+Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
+</figcaption>
+</figure>
+```
+
+![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5}
 
 ::: {.callout-important .my-5}
 **Beslisvragen strategie:**
@@ -68,7 +81,9 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 
 Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
 
-![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){#fig-digtrans .m-5 alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"} Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
+![Dynamisch vermogens voor digitale transformatie [@warner_building_2019]](digitalcapabilities.jpg){#fig-digcap .m-5}
+
+Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
 
 1.  *Sensing*: het kunnen herkennen van kansen en bedreigingen
 
@@ -83,13 +98,13 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
   <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Voorbeeld Uber</h5>
-    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digtrans">Figure 2</a></p>
+    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digcap">Figuur 3</a></p>
   </div>
 </div>
 ```
 De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
 
-![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
+![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){#fig-digtrans .m-5}
 
 @van_laar_relation_2017 stelden de volgende set aan essentiële 21st digital skills op:
 

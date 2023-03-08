@@ -33,14 +33,14 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 >
 > Het werkveld heeft behoefte aan professionals die de kansen op het gebied van digitalisering en technologische transformaties van morgen mede kunnen vormgeven. En die ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of ethische dilemma's, doorzien. Professionals -- ook binnen de HAN -- moeten daarom niet alleen vertrouwd zijn met wat er nu op digitaal en technologisch gebied voor handen is. Ze moeten ook nieuwsgierig zijn naar toekomstige ontwikkelingen en mogelijkheden zodat ze een bijdrage kunnen leveren aan het benutten van kansen.
 
-![Grootste bedrijven ter wereld in 2020 [@noauthor_largest_nodate]](marketcap.jpeg){.m-5}
+![Grootste bedrijven ter wereld in 2020](marketcap.jpeg){#fig-marketcap .m-5}
 
 ```{=html}
 <div class="card m-5" style="width: 560px;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Qhvh4xE8GUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Digitale Transformatie in Europa</h5>
-    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren. Wat kunnen wij als Europeanen doen om de achterstand weer in te halen en hoe ver zijn we daarmee?</p>
+    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren (zie <a href="#fig-marketcap">Figure 1</a>). Wat kunnen wij als Europeanen doen om de achterstand weer in te halen en hoe ver zijn we daarmee?</p>
   </div>
 </div>
 ```

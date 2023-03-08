@@ -47,8 +47,8 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 ```
 ![Conventioneel versus digitaal business model [@noauthor_design_nodate]](digcompany.png){#fig-digcomp .m-5}
 
-::: {.callout-important .my-5}
-**Beslisvragen visie:**
+::: {.callout-tip .my-5}
+## Beslisvragen visie
 
 1.  Welke betekenis heeft de HAN Bedrijfskundige in een door digitalisering en technologie gedreven veranderende wereld?
 :::
@@ -72,8 +72,8 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 ```
 ![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5}
 
-::: {.callout-important .my-5}
-**Beslisvragen strategie:**
+::: {.callout-tip .my-5}
+## Beslisvragen strategie
 
 1.  Welk volwassenheidsniveau moeten we qua digitalisering als HAN BK bereiken?
 :::
@@ -121,8 +121,8 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 6.  *Probleemoplossing*: vaardigheden om ICT te gebruiken om een probleemsituatie te analyseren en kennis in te zetten om een oplossing voor het probleem te vinden
 
-::: {.callout-important .my-5}
-**Beslisvragen ontwerp:**
+::: {.callout-tip .my-5}
+## Beslisvragen ontwerp en uitvoering
 
 1.  Hoe moeten we in de HAN BK driehoek het systeem van digital sensing, seizing en transformation inrichten en uitvoeren?
 

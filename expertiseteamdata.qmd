@@ -45,6 +45,8 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
   </div>
 </div>
 ```
+![Conventioneel versus digitaal business model [@noauthor_design_nodate]](digcompany.png){#fig-digcomp .m-5}
+
 ::: {.callout-important .my-5}
 **Beslisvragen visie:**
 
@@ -68,7 +70,6 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 </figcaption>
 </figure>
 ```
-
 ![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5}
 
 ::: {.callout-important .my-5}
@@ -98,7 +99,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
   <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
     <h5 class="card-title">Voorbeeld Uber</h5>
-    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digcap">Figuur 3</a></p>
+    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digcap">Figuur 4</a></p>
   </div>
 </div>
 ```

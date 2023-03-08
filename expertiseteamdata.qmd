@@ -33,29 +33,17 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 >
 > Het werkveld heeft behoefte aan professionals die de kansen op het gebied van digitalisering en technologische transformaties van morgen mede kunnen vormgeven. En die ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of ethische dilemma's, doorzien. Professionals -- ook binnen de HAN -- moeten daarom niet alleen vertrouwd zijn met wat er nu op digitaal en technologisch gebied voor handen is. Ze moeten ook nieuwsgierig zijn naar toekomstige ontwikkelingen en mogelijkheden zodat ze een bijdrage kunnen leveren aan het benutten van kansen.
 
-Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
-
-![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){.m-5 alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"} Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
-
-1.  *Sensing*: het kunnen herkennen van kansen en bedreigingen
-
-2.  *Seizing*: kunnen acteren op kansen
-
-3.  *Transforming*: kansen kunnen omzetten naar waarde door aanpassing van het business model of door een bredere resource basis waaruit kan worden geput
-
-Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende elementen aanwezig te zijn: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn: (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
+![Grootste bedrijven ter wereld in 2020 [@noauthor_largest_nodate]](marketcap.jpeg){.m-5}
 
 ```{=html}
 <div class="card m-5" style="width: 560px;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qhvh4xE8GUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <div class="card-body">
-    <h5 class="card-title">Casus Uber</h5>
-    <p class="card-text">De reportage beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
+    <h5 class="card-title">Digitale Transformatie in Europa</h5>
+    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren. Wat kunnen wij als Europeanen doen om de achterstand weer in te halen en hoe ver zijn we daarmee?</p>
   </div>
 </div>
 ```
-De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
-
 ::: {.callout-important .my-5}
 **Beslisvragen visie:**
 
@@ -77,6 +65,29 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 :::
 
 ## Ontwerp en uitvoering
+
+Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
+
+![Dynamische capaciteiten voor digitale transformatie.](digitalcapabilities.jpg){.m-5 alt="Dynamisch vermogens voor digitale transformatie [@warner_building_2019]"} Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
+
+1.  *Sensing*: het kunnen herkennen van kansen en bedreigingen
+
+2.  *Seizing*: kunnen acteren op kansen
+
+3.  *Transforming*: kansen kunnen omzetten naar waarde door aanpassing van het business model of door een bredere resource basis waaruit kan worden geput
+
+Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende elementen aanwezig te zijn: (a) cross functionele teams, (b) snelle besluitvorming en (c) management support. Faalfactoren zijn: (a) rigide strategische planningen, (b) lage veranderbereidheid en (c) hoge mate van hierarchie. Uiteindelijk zal de digitale transformatie leiden tot een strategische verandering in het business model, de interne en externe samenwerking en de organisatiecultuur [@warner_building_2019].
+
+```{=html}
+<div class="card m-5" style="width: 560px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/63wt3TgGGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">Voorbeeld Uber</h5>
+    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>).</p>
+  </div>
+</div>
+```
+De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
 
 ![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){.m-5}
 

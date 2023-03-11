@@ -72,6 +72,16 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 ```
 ![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5}
 
+```{=html}
+<div class="card m-5" style="width: 560px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ADT5y_-KLAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">Valkuilen bij Digitale Transformatie</h5>
+    <p class="card-text">Malcolm Frank, President van Cognizant Digital Business, legt in deze presentatie uit waarom 70% van de transformaties mislukt. Frank gaat in op de dingen die je als organisatie niet moet doen.</p>
+  </div>
+</div>
+```
+
 ::: {.callout-tip .my-5}
 ## Beslisvragen strategie
 

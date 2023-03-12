@@ -34,7 +34,7 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 >
 > Het werkveld heeft behoefte aan professionals die de kansen op het gebied van digitalisering en technologische transformaties van morgen mede kunnen vormgeven. En die ook de risico's, bijvoorbeeld op het gebied van wet- en regelgeving of ethische dilemma's, doorzien. Professionals -- ook binnen de HAN -- moeten daarom niet alleen vertrouwd zijn met wat er nu op digitaal en technologisch gebied voor handen is. Ze moeten ook nieuwsgierig zijn naar toekomstige ontwikkelingen en mogelijkheden zodat ze een bijdrage kunnen leveren aan het benutten van kansen.
 
-![Grootste bedrijven ter wereld in 2020](marketcap.jpeg){#fig-marketcap .m-5}
+![Grootste bedrijven ter wereld in 2020](marketcap.jpeg){#fig-marketcap .m-5 .w-75}
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -47,7 +47,7 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
   </div>
 </div>
 ```
-![Conventioneel versus digitaal business model [@noauthor_design_nodate]](digcompany.png){#fig-digcomp .m-5}
+![Conventioneel versus digitaal business model [@noauthor_design_nodate]](digcompany.png){#fig-digcomp .m-5 .w-75}
 
 ::: {.callout-tip .my-5}
 ## Beslisvragen visie
@@ -71,7 +71,7 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 </figcaption>
 </figure>
 ```
-![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5}
+![Digital maturity model [@iansiti_stages_2022]](digitalmaturity.png){#fig-digmat .m-5 .w-75}
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -84,7 +84,6 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
   </div>
 </div>
 ```
-
 ::: {.callout-tip .my-5}
 ## Beslisvragen strategie
 
@@ -95,7 +94,7 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 
 Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
 
-![Dynamisch vermogens voor digitale transformatie [@warner_building_2019]](digitalcapabilities.jpg){#fig-digcap .m-5}
+![Dynamisch vermogens voor digitale transformatie [@warner_building_2019]](digitalcapabilities.jpg){#fig-digcap .m-5 .w-75}
 
 Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
 
@@ -120,7 +119,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 ```
 De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkelen terwijl de bestaande business met alle bijbehorende processen en capaciteiten ook voldoende aandacht blijft ontvangen. Dit z.g.n. [explore / exploit](https://www.strategyzer.com/blog/the-explore-and-exploit-continuum) dilemma speelt niet alleen bij digitale transformaties, maar bij alle innovatievraagstukken.
 
-![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){#fig-digtrans .m-5}
+![Essentiële onderdelen van digitale transformatie[@chamorro-premuzic_essential_2021]](digitaltransformation.png){#fig-digtrans .m-5 .w-75}
 
 @van_laar_relation_2017 stelden de volgende set aan essentiële 21st century digital skills op:
 

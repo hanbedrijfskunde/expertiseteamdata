@@ -113,7 +113,7 @@ Voor de optimale ontplooiing van bovenstaande capaciteiten dienen volgende eleme
 </div>
   <div class="card-body">
     <h5 class="card-title">Voorbeeld Uber</h5>
-    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digcap">Figuur 4</a></p>
+    <p class="card-text">De casus beschrijft hoe Uber met behulp van data de op tactisch niveau kwaliteit van dienstverlening continue monitort, optimalisatiemogelijkheden identificeert (<strong>sensing</strong>), verbeteringen voor de waardepropositie ontwikkelt (<strong>seizing</strong>) en deze uitrolt (<strong>transforming</strong>). Zie ook <a href="#fig-digcap">Figuur 4</a></p>
   </div>
 </div>
 ```

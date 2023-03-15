@@ -26,7 +26,7 @@ De HAN heeft in haar strategische koersbeeld expliciet de noodzaak benoemd voor 
 
 </p>
 ```
-Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. Tevens worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
+Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie en de betekenis hiervan voor de opleiding Bedrijfskunde. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. Tevens worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
 ## Missie / Visie
 
@@ -96,7 +96,7 @@ Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk
 
 ![Dynamisch vermogens voor digitale transformatie [@warner_building_2019]](digitalcapabilities.jpg){#fig-digcap .m-5 .w-75}
 
-Deze capaciteiten kunnen worden verdeeld in drie categorieeën:
+Deze capaciteiten kunnen worden opgedeeld in drie categorieeën:
 
 1.  *Sensing*: het kunnen herkennen van kansen en bedreigingen
 

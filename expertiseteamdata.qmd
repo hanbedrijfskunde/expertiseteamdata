@@ -1,7 +1,9 @@
 ---
-title: "BESLISDOCUMENT: De betekenis van digitalisering voor HAN Bedrijfskunde (VT)"
-subtitle: "i.o.v. BK Werkgroep Driehoek"
-author: Witek ten Hove
+title: "De betekenis van digitalisering voor HAN Bedrijfskunde (VT)"
+subtitle: "BESLISDOCUMENT i.o.v. BK Werkgroep Driehoek"
+author:
+   - Witek ten Hove
+   - Yvonne Peterman
 lang: nl
 date: last-modified
 format:

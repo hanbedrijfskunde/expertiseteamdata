@@ -40,7 +40,7 @@ Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking t
 
 ![Grootste bedrijven ter wereld in 2020](marketcap.jpeg){#fig-marketcap .m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
-Momenteel zijn de VS en China landen toonaangevend op het gebied van digitale technologie en hebben zij een overheersende invloed op ontwikkeling van de wereldwijde digitale economie. Beide landen hebben een groot aantal tech-bedrijven die innovatieve digitale producten en diensten ontwikkelen en aanbieden. Bovendien investeren zowel de Amerikaanse als de Chinese overheid veel in onderzoek en ontwikkeling op het gebied van digitale technologieën. Hierdoor hebben ze een voorsprong op andere landen in de wereld. \[checken\]
+Momenteel zijn de VS en China landen toonaangevend op het gebied van digitale technologie en hebben zij een overheersende invloed op ontwikkeling van de wereldwijde digitale economie. Beide landen hebben een groot aantal tech-bedrijven die innovatieve digitale producten en diensten ontwikkelen en aanbieden. Bovendien investeren zowel de Amerikaanse als de Chinese overheid veel in onderzoek en ontwikkeling op het gebied van digitale technologieën. Hierdoor hebben ze een grote voorsprong op andere landen in de wereld [@cave_aspis_nodate].
 
 ```{=html}
 <div class="card m-5 w-75">

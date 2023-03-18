@@ -312,8 +312,10 @@ function toggleImageSize(imageId) {
 
   if (image.style.width === '100%') { // If the image is already at 100% width
     image.style.width = '175%'; // Toggle it to large width
+    image.style.cursor = 'zoom-out';
   } else { // Otherwise
     image.style.width = '100%'; // Toggle it to 100% width
+    image.style.cursor = 'zoom-in';
   }
 }
 </script>

@@ -310,7 +310,7 @@ Warner, Karl S. R., en Maximilian Wäger. 2019. <span>‘Building dynamic capabi
 function toggleImageSize(imageId) {
   const image = document.getElementById(imageId); // Get the image element by its id
 
-  if (image.style.width === '100%') { // If the image is already at 100% width
+  if (image.style.width !== '175%') { // If the image is not large
     image.style.width = '175%'; // Toggle it to large width
     image.style.cursor = 'zoom-out';
   } else { // Otherwise

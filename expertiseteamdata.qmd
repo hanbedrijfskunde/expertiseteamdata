@@ -21,7 +21,7 @@ editor: visual
 bibliography: bibliography.bib
 ---
 
-## Doel
+## - Doel {{< fa bullseye >}}
 
 ```{=html}
 <p class="lead">
@@ -32,7 +32,7 @@ De HAN heeft in haar strategische koersbeeld expliciet de noodzaak benoemd voor 
 ```
 Het volgende hoofdstuk beschrijft de missie en visie van de HAN met betrekking tot het thema digitalisering en technologie en de betekenis hiervan voor de opleiding Bedrijfskunde. In hoofdstuk drie wordt het strategische doel die de HAN rondom digitalisering heeft geformuleerd, vertaald naar strategische beslisvragen voor de opleiding BK. Hoofdstuk vier bespreekt de belangrijkste vragen rondom het ontwerp van curriculum, didactiek en onderzoek. Tevens worden de benodigde faciliteiten en capaciteiten besproken die nodig zijn en de keuzes die hierin gemaakt kunnen worden.
 
-## Missie / Visie
+##  - Missie / Visie {{< fa mountain-sun >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
@@ -67,7 +67,7 @@ Tot slot moeten Nederlandse onderwijsinstellingen zich richten op de ethische en
 1.  Welke betekenis heeft de HAN Bedrijfskundige in een door digitalisering en technologie veranderende wereld?
 :::
 
-## Strategie
+## - Strategie {{< fa route >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
@@ -102,7 +102,7 @@ Resultaten onderzoek Digitalisering tijdens HAN Studiedag februari 2023
 2.  Welk volwassenheidsniveau moeten we qua digitalisering als HAN BK bereiken?
 :::
 
-## Ontwerp en uitvoering
+##  - Ontwerp / uitvoering {{< fa compass-drafting >}}
 
 Om kansen op het gebied van digitalisering te kunnen omzetten naar daadwerkelijk gerealiseerde waarde, dienen organisaties intern te beschikken over een aantal dynamische capaciteiten.
 
@@ -157,7 +157,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 5.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers als het gaat om digitalisering?
 :::
 
-## Bronnen
+## - Bronnen {{< fa book-open-reader >}}
 
 ::: {#refs}
 :::

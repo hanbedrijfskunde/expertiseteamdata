@@ -161,7 +161,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 
 Hieronder worden een aantal inspiratiebronnen rondom digitalisering aangeboden, onderverdeeld naar bedrijfskundige thema's.
 
-### Strategie
+### Visie / Strategie / Waardecreatie
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -176,7 +176,7 @@ Hieronder worden een aantal inspiratiebronnen rondom digitalisering aangeboden, 
 ```
 
 
-### Processen
+### Processen / Kwaliteit / Risico
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -189,6 +189,21 @@ Hieronder worden een aantal inspiratiebronnen rondom digitalisering aangeboden, 
   </div>
 </div>
 ```
+
+### Organisatie / Mensen / Informatie
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/pTe-0cyAqHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">The Only Business Metric That Matters</h5>
+    <p class="card-text">We willen allemaal geweldige ideeën, maar weinigen begrijpen echt hoe geweldige ideeën ontstaan. Innovatie is geen evenement, geen workshop, sprint of hackathon. Het is het resultaat van het beheersen van de ideeënstroom, een oefening die al het andere dat je doet naar een hoger niveau tilt. Innovatie wordt voortdurend overhyped en oververkocht, maar routinematig onderontwikkeld als een mogelijkheid. Voortbouwend op de lessen uit Stanfords belangrijkste LaunchPad-acceleratorprogramma en van enkele van 's werelds meest innovatieve organisaties, onthullen Jeremy en Perry dat de sleutel tot creatie ideaflow is - de praktijk die creatieve output versterkt.</p>
+  </div>
+</div>
+```
+
 
 ## - Bronnen {{< fa book-open-reader >}}
 

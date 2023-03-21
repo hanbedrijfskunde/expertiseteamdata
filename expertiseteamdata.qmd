@@ -157,7 +157,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 5.  Over welke verdeling van volwassenheidsniveaus moet de opleiding BK beschikken qua docenten en onderzoekers als het gaat om digitalisering?
 :::
 
-## - Inspiration {{< fa lightbulb >}}
+## - Inspiratie {{< fa lightbulb >}}
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -165,7 +165,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
  <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=fd24f59d-85cc-45d0-a327-ed551b983c43"></iframe>
 </div>
   <div class="card-body">
-    <h5 class="card-title">Simualtie Business Processen M</h5>
+    <h5 class="card-title">Business Process Simulation</h5>
     <p class="card-text">Discrete event simulation (DES) kan worden toegepast op business process management (BPM) door het modelleren van bedrijfsprocessen en het simuleren van hun gedrag in een gecontroleerde omgeving. Dit stelt organisaties in staat om processen te analyseren, identificeren van bottlenecks en optimalisatiemogelijkheden, het testen van nieuwe strategieën en het voorspellen van toekomstige prestaties.</p>
   </div>
 </div>

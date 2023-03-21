@@ -166,7 +166,7 @@ De uitdaging voor veel organisaties is om bovenstaande capaciteiten te ontwikkel
 </div>
   <div class="card-body">
     <h5 class="card-title">Business Process Simulation</h5>
-    <p class="card-text">Discrete event simulation (DES) kan worden toegepast op business process management (BPM) door het modelleren van bedrijfsprocessen en het simuleren van hun gedrag in een gecontroleerde omgeving. Dit stelt organisaties in staat om processen te analyseren, identificeren van bottlenecks en optimalisatiemogelijkheden, het testen van nieuwe strategieën en het voorspellen van toekomstige prestaties.</p>
+    <p class="card-text">Discrete event simulation (DES) kan worden toegepast op business process management (BPM) door het modelleren van bedrijfsprocessen en het simuleren van hun werking in een gecontroleerde omgeving. Dit stelt organisaties in staat om processen te analyseren, bottlenecks te identificeren en optimalisatiemogelijkheden te bedenken, nieuwe strategieën te toetsen en toekomstige prestaties te voorspellen.</p>
   </div>
 </div>
 ```

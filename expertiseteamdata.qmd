@@ -53,11 +53,11 @@ Momenteel zijn de VS en China toonaangevend op het gebied van digitale technolog
   </div>
 </div>
 ```
-Als Europa wil blijven meespelen in de digitale wereld, is het belangrijk dat zij hierop reageert en zich snel aanpast. Een belangrijke rol is hierin weggelegd voor het Hoger Onderwijs. Het is belangrijk om studenten op te leiden in de nieuwste digitale technologieën en hen de vaardigheden te geven die nodig zijn om te slagen in de digitale economie. Daarnaast moeten onderwijsinstellingen zich richten op het ontwikkelen van innovatieve producten en diensten die concurreren met die van de VS en China.
+Als Europa wil blijven meespelen in de digitale wereld, dient zij hierop snel te reageren en aan te passen. Een belangrijke rol is hierin weggelegd voor het Hoger Onderwijs. Het is belangrijk om studenten op te leiden in de nieuwste digitale technologieën en hen de vaardigheden te geven die nodig zijn om te slagen in de digitale economie. Daarnaast moeten onderwijsinstellingen zich richten op het ontwikkelen van innovatieve producten en diensten die concurreren met die van de VS en China.
 
 ![Conventioneel versus digitaal business model [@noauthor_design_nodate]](digcompany.png){#fig-digcomp .m-5 .w-75 onclick="toggleImageSize(\"fig-digcomp\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
-Een andere belangrijke stap is het versterken van de samenwerking tussen onderwijsinstellingen en bedrijven. Door samen te werken met bedrijven die actief zijn in de digitale economie, kunnen onderwijsinstellingen beter begrijpen wat er nodig is om te slagen in deze snel veranderende sector. Bovendien kunnen ze op deze manier studenten beter voorbereiden op de arbeidsmarkt.
+Een andere essentiële stap is het versterken van de samenwerking tussen onderwijsinstellingen en bedrijven. Door samen te werken met bedrijven die actief zijn in de digitale economie, kunnen onderwijsinstellingen beter begrijpen wat er nodig is om te slagen in deze snel veranderende sector. Bovendien kunnen ze op deze manier studenten beter voorbereiden op de arbeidsmarkt.
 
 Tot slot moeten Nederlandse onderwijsinstellingen zich richten op de ethische en maatschappelijke aspecten van digitale technologie. Het is belangrijk dat studenten leren over de sociale en ethische implicaties van digitale technologieën, zoals privacy, veiligheid en digitale inclusie.
 

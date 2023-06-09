@@ -49,7 +49,7 @@ Momenteel zijn de VS en China toonaangevend op het gebied van digitale technolog
 </div>
   <div class="card-body">
     <h5 class="card-title">Digitale Transformatie in Europa</h5>
-    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de Amerikaanse digitale hegemonie, waar slechts een paar particuliere bedrijven de digitale wereld domineren (zie <a href="#fig-marketcap">Figuur 1</a>). Wat kunnen wij als Europeanen doen om de achterstand weer in te halen ?</p>
+    <p class="card-text">Europa lijkt achter te lopen op zijn Amerikaanse en Chinese rivalen als het gaat om de digitale economie. Nepnieuws, onzeker werk en gegevensdiefstal zijn allemaal toegenomen onder de digitale hegemonie van deze landen, waar slechts een paar particuliere bedrijven de digitale wereld domineren (zie <a href="#fig-marketcap">Figuur 1</a>). Wat kunnen wij als Europeanen doen om de achterstand weer in te halen ?</p>
   </div>
 </div>
 ```
